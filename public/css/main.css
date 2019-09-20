@@ -1,0 +1,32 @@
+.fs-23{
+    font-size: 23px;
+}
+.card-frame:hover {
+    border-color: rgba(55, 125, 255, 0.3);
+    box-shadow: 0 0 35px rgba(55, 125, 255, 0.125);
+}
+.card-frame {
+    border: 1px solid #e7eaf3;
+    transition: 0.3s;
+}
+a {
+    text-decoration: none;
+    color: initial;
+}
+a:hover {
+    text-decoration: none!important;
+    color: initial!important;
+}
+
+.table-responsive {
+    overflow: initial;
+}
+#result{
+    color:#ffffff;
+}
+.dashbaord .form-control:not(select){
+    color:#ffffff!important;
+}
+.error {
+    color: red;
+}
